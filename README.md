@@ -1,1 +1,1 @@
-# readmyjoke
+Use AI to read a joke you've created in your favorite comedians voice!
